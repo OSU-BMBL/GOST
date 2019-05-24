@@ -58,5 +58,5 @@ For example
 ## Inputs and outputs
 
 Input format
--species_directory: the directory containing the species information downloaded from NCBI
--operon file format (operon id: a list of gene ids)
+- species_directory: the directory containing the species information downloaded from NCBI
+- operon file format (operon id: a list of gene ids)
